@@ -1,0 +1,2 @@
+[{"dev_env": {"api_root_url": "https://api.github.com"}},{"test_env": {"api_root_url": "https://api.github.com"}},
+{"release_env": {"api_root_url": "https://api.github.com"}}]
